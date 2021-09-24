@@ -10,5 +10,6 @@ public class HelloWorldApplication {
 		System.out.println("Hello from bridgelabz");
 		SpringApplication.run(HelloWorldApplication.class, args);
 	}
+	
 
 }
